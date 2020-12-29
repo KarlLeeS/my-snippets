@@ -1,2 +1,3 @@
-# customHooks
-repo for customhooks
+# my-snippets
+
+snippets for re-usablity and efficiency
